@@ -1,6 +1,20 @@
 # Current Projects
 
-- Grad school for my Master's in Computer Science with a focus on Computing Systems and HPC
-- [C++ Game Engine using SDL3](https://github.com/exokomodo/drakon)
-- [Immutable Programming language](https://github.com/exokomodo/daybreak)
-- [Paint game/program, acting as a Shader playground](https://github.com/exokomodo/paint)
+# Right now...
+
+My main thing is this [De-Googling Startup](https://github.com/autobutler-org/autobutler)
+
+## On the side...
+
+- [Game Engine using Vulkan](https://github.com/exokomodo/drakon)
+- [Ralph loop implementation](https://github.com/exokomodo/im-gonna-ralph)
+- Project Templates
+  - [C++](https://github.com/exokomodo/template-cpp)
+  - [Golang](https://github.com/exokomodo/template-golang)
+  - [Python](https://github.com/exokomodo/template-python)
+
+## What else I wish I was working on...
+
+- [My Programming Language](https://github.com/exokomodo/daybreak)
+- [My own text editor in my language](https://github.com/exokomodo/bred)
+- Anything with my own language or a compiler...
