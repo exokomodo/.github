@@ -6,7 +6,7 @@ My main thing is this [De-Googling Startup](https://github.com/autobutler-org/au
 
 ## On the side...
 
-- [Game Engine using Vulkan](https://github.com/exokomodo/drakon)
+- [Vulkan Game Engine](https://github.com/exokomodo/drakon)
 - [Ralph loop implementation](https://github.com/exokomodo/im-gonna-ralph)
 - Project Templates
   - [C++](https://github.com/exokomodo/template-cpp)
